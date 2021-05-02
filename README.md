@@ -1,5 +1,5 @@
 # TaskLister Lite™️
-
+ 
 Today you'll be creating a simple to do list application that will focus on DOM
 manipulation. Take a look at `index.html` and identify the DOM elements you'll
 need to manipulate before you write any code.
